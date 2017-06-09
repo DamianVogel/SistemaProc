@@ -1,0 +1,24 @@
+1 - GND (-) negativo
+
+2 - VCC 5V (+) positivo
+
+3 - VO (control de contraste del display)
+
+4 - RS (Selecion de registro: 0 - Logico registro de comandos (escritura)
+			      1 - Logico registro de comandos (escritura, lectura)
+
+5 - RW lectura / escritura: 1 - lectura
+			    0 - escritura
+
+6 - E (enable habilitar): 1 - inicio
+			  2 - desactivar
+
+7-10	D0 - D3 DATOS
+
+11-14	D4 - D7 DATOS
+
+15 - 	A+
+
+16 - 	K-
+
+  			   
